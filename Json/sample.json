@@ -1,0 +1,20 @@
+{
+  "XXX公司": [
+    {
+      "name": "IT部",
+      "mebers": [
+        {
+          "维护人员": [ "ASA", "ASD", "WEA" ],"电脑维护": [ "SDA", "WES", "SDS" ]
+        }
+      ]
+    },
+    {
+      "name": "人事部",
+      "mebers": [
+        {
+          "招聘专员":{"A": [ "sdaf", "safas", "fsadf" ],"B":["sdf","fasf"]}, "公积金管理": [ "fas","fasdf","fasdf","fasdf"]
+        }
+      ]
+    }
+  ]
+}
